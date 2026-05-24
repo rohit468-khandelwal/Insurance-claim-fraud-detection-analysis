@@ -1,0 +1,149 @@
+# Insurance Claim Fraud Detection Analysis
+
+## Project Overview
+
+This project focuses on analyzing insurance claim data to identify fraud patterns and understand claim behavior using data visualization and exploratory data analysis techniques. The analysis helps insurance companies detect suspicious claims and improve risk assessment strategies. 
+
+---
+
+## Objectives
+
+* Analyze insurance claim datasets
+* Detect fraudulent and non-fraudulent claim patterns
+* Visualize claim distributions and trends
+* Study incident severity and claim amounts
+* Understand demographic and geographical claim behavior
+
+---
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Plotly Express
+* Google Colab
+
+---
+
+## Dataset Information
+
+The dataset contains:
+
+* Customer details
+* Policy information
+* Incident details
+* Claim amounts
+* Fraud reported status
+* Vehicle and demographic information
+
+Dataset size:
+
+* 1000 rows
+* 40 columns 
+
+---
+
+## Features and Analysis Performed
+
+### Fraud Claim Distribution
+
+* Pie chart analysis of fraudulent vs non-fraudulent claims
+* Majority claims are non-fraudulent
+
+### Incident Severity Analysis
+
+* Total claim amount comparison by:
+
+  * Minor Damage
+  * Major Damage
+  * Total Loss
+  * Trivial Damage
+
+### Incident Type Analysis
+
+* Claim amount comparison by:
+
+  * Multi-vehicle Collision
+  * Single Vehicle Collision
+  * Vehicle Theft
+  * Parked Car
+
+### Auto Make Claim Analysis
+
+* Treemap visualization of top vehicle brands involved in claims
+
+### Claim Breakdown Analysis
+
+* Injury claims
+* Vehicle claims
+* Property claims
+
+### Time-Based Incident Analysis
+
+* Number of incidents by hour of the day
+
+### State-wise Claim Analysis
+
+* USA state-wise insurance claim visualization using choropleth maps
+
+### Education Level vs Fraud Analysis
+
+* Fraud comparison based on insured education levels
+
+### Total Claim Amount Distribution
+
+* Histogram and KDE distribution analysis
+
+### Gender vs Fraud Analysis
+
+* Butterfly chart comparing male and female fraud claims
+
+---
+
+## Visualizations Included
+
+The project includes:
+
+* Pie Charts
+* Bar Charts
+* Horizontal Bar Graphs
+* Histograms
+* Line Charts
+* Treemaps
+* Choropleth Maps
+* Butterfly Charts
+
+---
+
+## Key Insights
+
+* Fraudulent claims form a smaller portion of total claims
+* Major damage and total loss incidents create higher claim amounts
+* Multi-vehicle collisions contribute significantly to insurance payouts
+* Certain time periods show higher incident frequency
+* Geographic patterns influence insurance claims
+* Demographic factors may impact fraud reporting behavior
+
+---
+
+## Files Included
+
+* Python Notebook / Colab File
+* Insurance Claim Dataset
+* Visualization Outputs
+* Analysis Report
+
+---
+
+## Conclusion
+
+This project demonstrates how data analytics and visualization techniques can be applied in the insurance industry to detect fraud patterns, analyze customer behavior, and improve claim management systems. It provides valuable insights for insurance companies in risk management and fraud prevention.
+
+---
+
+## Author
+
+Rohit Khandelwal
